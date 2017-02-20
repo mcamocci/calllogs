@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Call info</string>
+    <string name="hint">category</string>
+    <string name="copyrights">\u00a9 2016 Haikarose lab</string>
+    <string name="about_message">Call info has been developed by Haikarose software laboratory.</string>
+    <string name="version_title">version 1.0</string>
+    <string name="about_menu">About</string>
+    <string name="email">mcamocci@gmail.com</string>
+</resources>
